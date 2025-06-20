@@ -29,8 +29,13 @@ app.post('/expenses', (req, res) => {
   };
 
   expenses.push(newExpense);
+
+  console.log("New Expense Added:");
+  console.log("All Expenses:", JSON.stringify(expenses, null, 2)); // 👈 Pretty print
+
   res.status(201).json(newExpense);
 });
+
 
 // GET /expenses – Get all expenses
 app.get('/expenses', (req, res) => {
