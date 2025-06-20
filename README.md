@@ -4,8 +4,8 @@ A full-featured expense tracking web application built using **React.js** for th
 
 ## 🌐 Live Demo
 
-- Frontend (React): [View on Vercel](https://expense-tracker-frontend.vercel.app)
-- Backend (Express API): [View on Render](https://expense-tracker-backend-e5dw.onrender.com)
+- Frontend (React): [View on Vercel](https://expense-tracker-frontend-sigma-nine.vercel.app/)
+- Backend (Express API): [View on Render](https://expense-tracker-backend-e5dw.onrender.com/)
 
 ## 🔧 Tech Stack
 
